@@ -71,6 +71,61 @@
         "url": "https://images.express.com/is/image/expressfashion/0020_06033411_0001_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
         "price": "$59.99",
         "description": "Slim-fit tailored trousers for a sharp appearance."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_06036661_1056_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$64.99",
+        "description": "Hooded parka jacket for ultimate warmth."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01691237_0121_f001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$79.99",
+        "description": "Flannel shirt with a checked pattern, ideal for layering."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01698552_1056_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$39.99",
+        "description": "Cotton joggers with a relaxed fit for lounging or exercise."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_06036280_2570_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$94.99",
+        "description": "Double-breasted coat for a timeless winter style."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01767924_1093_f001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$49.99",
+        "description": "Lightweight bomber jacket with a modern cut."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_06039339_0134_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$29.99",
+        "description": "Long-sleeve tee for a casual, effortless look."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01765501_0625_f001?cache=on&wid=480&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$34.99",
+        "description": "Fitted dress shirt for office or evening events."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_06038128_0914_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$69.99",
+        "description": "Quilted vest for layering on cooler days."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01768273_0315_a001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$39.99",
+        "description": "Chic oversized sweater with a cozy fit."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_01765542_2237_f001?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$54.99",
+        "description": "Slim-fit jeans with a trendy distressed look."
+      },
+      {
+        "url": "https://images.express.com/is/image/expressfashion/0020_00305330_0001_a901?cache=on&wid=480&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+        "price": "$29.99",
+        "description": "Versatile belt to pair with casual or formal outfits."
       }
     ]
   }
